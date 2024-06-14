@@ -15,7 +15,7 @@ convidem amigos para participar.
 • Oferecer recursos de filtragem para os usuários encontrarem eventos de acordo
 com suas preferências, como tipo de evento, localização, data e categoria.
 
-3. Funcionalidades Principais
+Funcionalidades Principais
 Página Inicial:
 • Destaques dos eventos em destaque.
 • Barra de pesquisa para encontrar eventos específicos.
